@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 如來示教勝軍王經
+#+DATE: 2015-08-30 20:11:02.786337
+#+PROPERTY: JUAN 0
