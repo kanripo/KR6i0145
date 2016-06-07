@@ -1,21 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:11:02.563532
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:42
 #+TITLE: 如來示教勝軍王經
 #+PROPERTY: CBETA_ID T14n0515
 #+PROPERTY: ID KR6i0145
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 515
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0145_T_000-0786c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0145_T_001-0786c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.515[Nos.514,516]¶
-
- 如來示教勝軍王經¶
+No. 515 [Nos. 514, 516]¶
+如來示教勝軍王經¶
 ¶
 大唐三藏法師玄奘奉　詔譯¶
 
