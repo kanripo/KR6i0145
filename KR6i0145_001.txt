@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:11:02.563532
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:42
 #+TITLE: 如來示教勝軍王經
 #+PROPERTY: CBETA_ID T14n0515
 #+PROPERTY: ID KR6i0145
